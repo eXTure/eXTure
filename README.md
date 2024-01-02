@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eXTure
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m currently working with Python
 - 💞️ I’m looking to collaborate on Python
 
 <!---
